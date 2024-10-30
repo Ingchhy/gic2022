@@ -9,7 +9,7 @@
               <div id="screen_bottom">
                 <!-- v-text is a directive that is used to replace the content of HTML tag with private data -->
                 <!-- It will update the content automatically when data is changed. It is called data reactive -->
-                <span v-text="inputNumber" id="operand1">0</span>
+                <span V-text="inputNumber" id="operand1">0</span>
                 <span id="operator"></span>
                 <span id="operand2"></span>
               </div>
